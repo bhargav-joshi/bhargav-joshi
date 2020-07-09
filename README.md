@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hi, I'm Bhargav Joshi.
 
-<!--
-**bhargav-joshi/bhargav-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####    I'm a Undergraduate Third Year Student pursuing Computer Engineering.
 
-Here are some ideas to get you started:
+![giphy (1)](https://user-images.githubusercontent.com/47782249/87053953-2bee4900-c220-11ea-8d69-cdb0ff711957.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+- 🔭 I’m currently working on ML, Data Science, Python, Web Development & More
+- 🌱 I’m currently learning Machine & Deep Learning
+- 👯 I’m looking to collaborate on differnt projects of Web Dev. & Data science
+- 💬 Ask me about anything :)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/capturingeye/)
+- ⚡ Fun fact: I likes to play games
+
+
+# ☕ Wanna chat 
+
+You can DM me on twitter if you're looking for a mentor or need help anything related to my field. I'd be happy to help you 😃.
+- Twitter =>  [@Capturing_Eye](https://twitter.com/Capturing_eye) 🚀
