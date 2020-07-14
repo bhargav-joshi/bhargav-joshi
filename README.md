@@ -20,11 +20,11 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
  You can DM me on twitter if you're looking for a mentor or need help anything related to my field. I'd be happy to help you 😃.
 
-  <a href="https://www.linkedin.com/in/capturingeye/">
-    <img align="left" alt="Bhargav Joshi | Linkedin" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg" />
-  </a>
   <a href="https://twitter.com/Capturing_eye">
     <img align="left" alt="Bhargav Joshi | Twitter" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/capturingeye/">
+    <img align="left" alt="Bhargav Joshi | Linkedin" width="40px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg" />
   </a>
   <a href="http://ibhargavjoshi.com/">
     <img align="left" alt="Bhargav Joshi | Website" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/www.svg" />
