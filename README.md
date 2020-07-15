@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Bhargav Joshi. <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/boy.png" width="30px" align="center"> 
+## 👋 Hello, I'm Bhargav Joshi. <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/boy.png" width="30px" align="center"> 
 
  ***I'm a Third year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
