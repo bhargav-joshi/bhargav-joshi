@@ -32,11 +32,14 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
   <a href="https://www.quora.com/profile/Bhargav-Joshi-149">
     <img align="left" alt="Bhargav Joshi | Quora" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/quora.svg" />
   </a>
+  
 <br>
 
- [![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargav-joshi)](https://github.com/bhargav-joshi/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bhargav-joshi)](https://github.com/bhargav-joshi)
+<br>
+<br>
 
-⭐️ *From https://github.com/bhargav-joshi* <br><br>
+##### ⭐️ *From https://github.com/bhargav-joshi* <br><br>
 
 **Want to use this Template ? Fork It and then you can use this :)**
 ![](https://img.shields.io/github/followers/bhargav-joshi?label=bhargav-joshi&style=social)
