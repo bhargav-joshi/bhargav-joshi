@@ -17,7 +17,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 - [x] ⚡ **Fun fact: I likes to play games**
 
 
-#### 📞 Wanna Chat / Contact  ?
+#### 📞 Want to Chat or Contact  ?
 
  You can DM me on twitter if you're looking for a mentor or need help anything related to my field. I'd be happy to help you 😃.
 
