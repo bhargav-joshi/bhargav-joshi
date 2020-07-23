@@ -35,7 +35,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
   </a>
 <br><br>
 
-![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=FFDD3D&bg_color=151515)
+![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargav-joshi)
 <br>
 
 ##### ⭐️ *From https://github.com/bhargav-joshi* <br><br>
