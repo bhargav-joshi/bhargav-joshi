@@ -1,20 +1,21 @@
 ## 👋 Hello, I'm Bhargav Joshi. <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/boy.png" width="30px" align="center"> 
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="right">
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px">
+<br>
 
- ***I'm a Third year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
+***I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me.***
 <br>
 
-
+### About Me 👇 
  
-- [x] 🔭 **I’m currently working on**
+* 🔭 **I’m currently working on**
    ####      ![](https://img.shields.io/badge/Data%20Science-%7C-orange) ![](https://img.shields.io/badge/Machine%20Learning-%7C-blue) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/Java-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
-- [x] 🌱 **I’m currently learning** ***Machine & Deep Learning***
-- [x] 👯 **I’m looking to collaborate on differnt projects of Web Development & Data science**
-- [x] 💬 **Ask me about anything :)** 
-- [x] 📫 **How to reach me: [Linkedin](https://www.linkedin.com/in/capturingeye/)**
-- [x] ⚡ **Fun fact: I likes to play games**
+* 🌱 **I’m currently learning** ***Machine & Deep Learning***
+* 🤝 **I’m looking to collaborate on differnt projects of Web Development & Data science**
+* 💬 **Ask me about anything :)** 
+* 📫 **How to reach me: [Linkedin](https://www.linkedin.com/in/capturingeye/)**
+* ⚡ **Fun fact: I likes to play games**
 
 
 #### 📞 Want to Chat or Contact  ?
