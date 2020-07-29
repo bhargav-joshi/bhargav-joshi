@@ -9,13 +9,13 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
 ### About Me 👇 
  
-* 🔭 **I’m currently working on**
-   ####      ![](https://img.shields.io/badge/Data%20Science-%7C-orange) ![](https://img.shields.io/badge/Machine%20Learning-%7C-blue) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/Java-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  ![](https://img.shields.io/badge/C++-%7C-yellowgreen)
-* 🌱 **I’m currently learning** ***Machine & Deep Learning***
-* 🤝 **I’m looking to collaborate on differnt projects of Web Development & Data science**
-* 💬 **Ask me about anything :)** 
-* 📫 **How to reach me: [Linkedin](https://www.linkedin.com/in/capturingeye/)**
-* ⚡ **Fun fact: I likes to play games**
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px">  **I’m currently working on**
+   ####      ![](https://img.shields.io/badge/Data%20Science-%7C-orange) ![](https://img.shields.io/badge/Machine%20Learning-%7C-blue) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web%20Development-%7C-red) ![](https://img.shields.io/badge/Java-%7C-yellow) ![](https://img.shields.io/badge/C-%7C-blue)  ![](https://img.shields.io/badge/C++-%7C-yellowgreen) <br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***Machine & Deep Learning*** <br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m looking to collaborate on differnt projects of Web Development & Data science** <br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Ask me about anything :)** <br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [Linkedin](https://www.linkedin.com/in/capturingeye/)**<br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Fun fact: I likes to play games**<br>
 
 
 #### 📞 Want to Chat or Contact  ?
