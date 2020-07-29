@@ -41,9 +41,8 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
 ##### ⭐️ *From https://github.com/bhargav-joshi* <br><br>
 
-**Want to use this Template ? Fork It and then you can use this :)**
+**Want to use this Template ? Fork It and then you can use this by giving credit [*Eg. Credits:-  Bhargav Joshi*](https://github.com/bhargav-joshi)**<br>
 ![](https://img.shields.io/github/followers/bhargav-joshi?label=bhargav-joshi&style=social)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi" alt="https://github.com/bhargav-joshi"> </p>
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
