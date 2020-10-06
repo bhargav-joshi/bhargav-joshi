@@ -6,10 +6,10 @@
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me.***
 <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/github-website.png" width="350px" align="right">
+<a href="http://bhargav-joshi.github.io"><img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/github-website.png" width="350px" align="right"></a>
 ### About Me 👇 
  
-<a href="http://bhargav-joshi.github.io/"><img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"></a>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px">
 **⚡ Technologies which I used : -**
  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%7C-blue?style=flat-square) 
