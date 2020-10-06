@@ -6,7 +6,7 @@
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me.***
 <br>
-
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/github-website.png" width="400px" align="right">
 ### About Me 👇 
  
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px">  **⚡ Technologies which I used : -**
@@ -32,7 +32,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***Machine & Deep Learning*** <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m looking to collaborate on differnt projects of Web Development & Data science** <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Ask me about anything :)** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [Linkedin](https://www.linkedin.com/in/capturingeye/)**<br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [ConnectBhargav](https://www.linkedin.com/in/capturingeye/)**<br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Fun fact: I likes to play games**<br>
 
 
