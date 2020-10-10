@@ -1,15 +1,13 @@
 # 👋 Hello, I'm Bhargav Joshi. <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/boy.png" width="30px" align="center"> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi" alt="https://github.com/bhargav-joshi"> </p>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="Right">
 <br>
-
 <h4> <i>I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me. </i></h4>
-<br>
-<br>
 <hr>
 <h3 align="Right"> GitHub Portfolio 👇 </h3>
-<a href="http://bhargav-joshi.github.io"><img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/github-website.png" width="350px" align="right"></a>
+<a href="http://bhargav-joshi.github.io"><img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/github-website.png" width="250px" align="right"></a>
 <h3>About Me 👇 </h3>
  
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **⚡ Technologies which I used ⚡**
@@ -33,7 +31,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br> <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***Machine & Deep Learning*** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m looking to collaborate on differnt projects of Web Development & Data science** <br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m looking to collaborate on different projects of Web Development & Data science** <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Ask me about anything :)** <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [ConnectBhargav](https://www.linkedin.com/in/capturingeye/)**<br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Fun fact: I likes to play games**<br>
@@ -44,16 +42,19 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
  You can DM me on twitter if you're looking for a mentor or need help anything related to my field. I'd be happy to help you 😃.
 
   <a href="https://twitter.com/Capturing_eye">
-    <img align="left" alt="Bhargav Joshi | Twitter" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.svg" />
+    <img align="left" alt="Bhargav Joshi | Twitter" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.svg">
   </a>
   <a href="https://www.linkedin.com/in/capturingeye/">
-    <img align="left" alt="Bhargav Joshi | Linkedin" width="40px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg" />
+    <img align="left" alt="Bhargav Joshi | Linkedin" width="40px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg">
   </a>
   <a href="http://ibhargavjoshi.com/">
-    <img align="left" alt="Bhargav Joshi | Website" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/www.svg" />
+    <img align="left" alt="Bhargav Joshi | Website" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/www.svg">
   </a>
   <a href="https://www.quora.com/profile/Bhargav-Joshi-149">
-    <img align="left" alt="Bhargav Joshi | Quora" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/quora.svg" />
+    <img align="left" alt="Bhargav Joshi | Quora" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/quora.svg">
+  </a>
+  <a href="http://www.youtube.com/channel/UCNNV6y1pF3sv8xfKjsz7fUw?sub_confirmation=1">
+    <img align="left" alt="Capturing eye | Quora" width="85px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/YouTube.png">
   </a>
 <br><br>
 
