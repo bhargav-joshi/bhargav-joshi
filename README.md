@@ -58,7 +58,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
   </a> 
 <br>
 <hr>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=radical"> &nbsp <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ##### ⭐️ *From https://github.com/bhargav-joshi*
