@@ -55,9 +55,10 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
   </a>
   <a href="http://www.youtube.com/channel/UCNNV6y1pF3sv8xfKjsz7fUw?sub_confirmation=1">
     <img align="left" alt="Capturing eye | Youtube" width="85px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/YouTube.png">
-  </a>
-<br><br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi"> </p>
+  </a> <br>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=radical"> </p>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ##### ⭐️ *From https://github.com/bhargav-joshi*
