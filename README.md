@@ -2,8 +2,7 @@
 
 # 👋 Hello, I'm Bhargav Joshi. <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/boy.png" width="30px" align="center"> 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="Right">
-<br>
-<h4> <i>I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
+<h4 align="left"> <i>I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me. </i></h4>
 <hr>
@@ -55,17 +54,10 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
     <img align="left" alt="Bhargav Joshi | Quora" width="35px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/quora.svg">
   </a>
   <a href="http://www.youtube.com/channel/UCNNV6y1pF3sv8xfKjsz7fUw?sub_confirmation=1">
-    <img align="left" alt="Capturing eye | Quora" width="85px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/YouTube.png">
+    <img align="left" alt="Capturing eye | Youtube" width="85px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/YouTube.png">
   </a>
 <br><br>
-
-![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargav-joshi)
-<br>
-
-##### ⭐️ *From https://github.com/bhargav-joshi* <br><br>
-
-**Want to use this Template ? Fork It and then you can use this by giving credit [*Eg. Credits:-  Bhargav Joshi*](https://github.com/bhargav-joshi)**<br>
-![](https://img.shields.io/github/followers/bhargav-joshi?label=bhargav-joshi&style=social)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi" alt="https://github.com/bhargav-joshi"> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi"> </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+##### ⭐️ *From https://github.com/bhargav-joshi*
