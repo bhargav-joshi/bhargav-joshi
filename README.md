@@ -6,8 +6,8 @@
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me. </i></h4>
 <br>
----
 <br>
+<hr>
 <h3 align="Right"> GitHub Portfolio 👇 </h3>
 <a href="http://bhargav-joshi.github.io"><img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/github-website.png" width="350px" align="right"></a>
 <h3>About Me 👇 </h3>
