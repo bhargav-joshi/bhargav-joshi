@@ -1,5 +1,6 @@
-# 👋 Hello, I'm Bhargav Joshi. <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/boy.png" width="30px" align="center"> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi" alt="https://github.com/bhargav-joshi"> </p>
+
+# 👋 Hello, I'm Bhargav Joshi. <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/boy.png" width="30px" align="center"> 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="Right">
 <br>
 <h4> <i>I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
