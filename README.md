@@ -60,8 +60,8 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
     <img align="left" alt="Capturing eye | Youtube" width="85px" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/YouTube.png">
   </a> 
 <br>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=buefy"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> </p>
+<br>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> &nbsp  <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=buefy"></p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/bhargav-joshi?style=for-the-badge&logo=appveyor&color=blue)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/bhargav-joshi?style=for-the-badge&logo=appveyor&color=blue)](https://badges.pufler.dev)
