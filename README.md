@@ -5,7 +5,8 @@
 <h4 align="left"> <i>I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me. </i></h4>
-<hr>
+
+# 
 
 <h3 align="Right"> GitHub Portfolio 👇 </h3>
 <a href="http://bhargav-joshi.github.io"><img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/github-website.png" width="250px" align="right"></a>
@@ -60,7 +61,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
   </a> 
 <br>
 <hr>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=buefy"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> </p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/bhargav-joshi?style=for-the-badge&logo=appveyor&color=blue)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/bhargav-joshi?style=for-the-badge&logo=appveyor&color=blue)](https://badges.pufler.dev)
