@@ -72,8 +72,5 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=buefy"></p>
 
-[![Repos Badge](https://badges.pufler.dev/repos/bhargav-joshi?style=for-the-badge&logo=appveyor&color=blue)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/bhargav-joshi?style=for-the-badge&logo=appveyor&color=blue)](https://badges.pufler.dev)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ##### ⭐️ *From https://github.com/bhargav-joshi*
