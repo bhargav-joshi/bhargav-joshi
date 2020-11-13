@@ -52,8 +52,12 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [ConnectBhargav](https://www.linkedin.com/in/capturingeye/)**<br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Fun fact: I likes to play games**<br>
 
-## 🏆 Github Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=bhargav-joshi&row=6)
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bhargav-joshi&column=7&hide=issue"/>
+  </a>
+</div>
 
 ## Communities
 
@@ -69,8 +73,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 # 
 
 <p> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"> 
-<img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-joshi&layout=compact&langs_count=10"><img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=merko">
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
