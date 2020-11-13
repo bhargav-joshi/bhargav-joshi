@@ -66,12 +66,6 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <a href="https://codingblocks.com/"><img src="https://avatars1.githubusercontent.com/u/19412721?s=200&v=4" width=60px></a>
 <a href="https://github.com/Developer-Community-India"><img src="https://avatars0.githubusercontent.com/u/71818610?s=200&v=4" width=60px></a>
 
-
-***Want to contribute ?*** 
-##### Fork -> Add -> Make A Pull Request with proper description
-
-# 
-
 <p> 
 <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true&theme=merko" width=500
 </p>
