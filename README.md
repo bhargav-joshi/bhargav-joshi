@@ -5,7 +5,7 @@
 <img src="https://github.com/bhargav-joshi/bhargav-joshi.github.io/blob/master/assets/img/Backcover.png">
 
 <p align="center">
-<a href=""https://twitter.com/Capturing_eye"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Capturing_eye"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/capturingeye/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Bhargav-Joshi-149"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/quora.svg"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
