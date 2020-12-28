@@ -3,15 +3,15 @@
 <h1 align="center">Hey <img src="https://github.com/bhargav-joshi/bhargav-joshi.github.io/blob/master/assets/img/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️ <br></h1>
 <br>
 
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="Right">
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
 <h4 align="left"> <i>I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me. </i></h4>
 
-
+# 
 <p align="center">
+<a href="https://www.linkedin.com/in/capturingeye/"><img height="50" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Capturing_eye"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/capturingeye/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Bhargav-Joshi-149"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/quora.svg"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
 <a href="http://bhargavjoshi.live/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/www.svg"></a>&nbsp;&nbsp;
