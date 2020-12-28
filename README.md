@@ -47,11 +47,10 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br> <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***Machine & Deep Learning*** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m looking to collaborate on different projects of Web Development & Data science** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Ask me about anything :)** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [ConnectBhargav](https://www.linkedin.com/in/capturingeye/)**<br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **Fun fact: I likes to play games**<br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***New Technologies*** <br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m Internships & Opportunities** <br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [AskBhargav](https://www.linkedin.com/in/capturingeye/)**<br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **My Hobbies: Writing Blogs, Helping students, Playing Games, Travelling**<br>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
