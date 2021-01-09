@@ -4,9 +4,9 @@
 <br>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left"> <i>I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
+<h4 align="left"> I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
-I am Open For Internships, You can Send me your Offer on My mail or just Message me. </i></h4>
+I am Open For Internships, You can Send me your Offer on My mail or just Message me. </h4>
 
 # 
 <p align="center">
@@ -17,13 +17,6 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <a href="http://bhargavjoshi.live/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/www.svg"></a>&nbsp;&nbsp;
 <a href="http://www.youtube.com/channel/UCNNV6y1pF3sv8xfKjsz7fUw?sub_confirmation=1"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/YouTube.png"></a>&nbsp;&nbsp; 
 </p>  
-
-
-# 
-
-<h3 align="Right"> GitHub Portfolio 👇 </h3>
-<a href="http://bhargav-joshi.github.io"><img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/github-website.png" width="250px" align="right"></a>
-
 
 ## About Me 👇
  
