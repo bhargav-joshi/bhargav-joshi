@@ -10,7 +10,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
 # 
 <p align="center">
-<a href="https://www.linkedin.com/in/capturingeye/"><img height="50" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="50" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Capturing_eye"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Bhargav-Joshi-149"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/quora.svg"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
@@ -42,7 +42,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <br> <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m currently learning** ***New Technologies*** <br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **I’m Internships & Opportunities** <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [AskBhargav](https://www.linkedin.com/in/capturingeye/)**<br>
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [AskBhargav](https://www.linkedin.com/in/bhargavjoshi55/)**<br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **My Hobbies: Writing Blogs, Helping students, Playing Games, Travelling**<br>
 
 <div>
