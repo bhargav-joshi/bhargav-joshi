@@ -10,9 +10,9 @@
 <h4 align="left"> I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 </h4>
-<hr>
+<hr/>
+<h3 align="center"><i><b> < Connect me on Social Media > </b></i></h3>
 
-<h3 align="center"><b> Connect me on Social Media <b></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Capturing_eye"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.png"></a>&nbsp;&nbsp;
@@ -21,6 +21,8 @@ I am Data science, Web Development, Software development & Cyber security Enthus
 <a href="http://www.youtube.com/channel/UCNNV6y1pF3sv8xfKjsz7fUw?sub_confirmation=1"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/youtube.png"></a>&nbsp;&nbsp; 
 <a href="https://www.instagram.com/capturing_eye/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/instagram.png"></a>&nbsp;&nbsp;
 <a href="http://bhargavjoshi.live/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/globe-grid.png"></a>&nbsp;&nbsp;
+<a href="https://helpwalaa.blogspot.com/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/blogger.png"></a>&nbsp;&nbsp;
+
 </p>  
 
 ## About Me 👇
