@@ -48,7 +48,8 @@ I am Data science, Web Development, Software development & Cyber security Enthus
 <code><img height="55" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/oracle-db.jpg"></a>&nbsp;&nbsp;</code>
  
 ### Data Science:
-<code><img height="80" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/Data%20Science/ml.jpg"></a>&nbsp;&nbsp;</code>
+<code><img height="80" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/Data%20Science/machine%20learning.png"></a>&nbsp;&nbsp;</code>
+<code><img height="80" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/Data%20Science/ai.png"></a>&nbsp;&nbsp;</code>
  <code><img height="30" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/Data%20Science/colab.png"></a>&nbsp;&nbsp;</code>
  <code><img height="30" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/Data%20Science/jupyter.png"></a>&nbsp;&nbsp;</code>
  <code><img height="30" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/Data%20Science/NumPy.png"></a>&nbsp;&nbsp;</code>
