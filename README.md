@@ -50,13 +50,15 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **How to reach me: [AskBhargav](https://www.linkedin.com/in/bhargavjoshi55/)**<br>
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/next.png" width="20px"> **My Hobbies: Writing Blogs, Helping students, Playing Games, Travelling**<br>
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhargav-joshi&column=7&hide=issue"/>
-  </a>
- </div>
- <div>
+# Latest Blog Posts 💬 📋 ✒️ 
+ - [Build your Linear Regression Model in Machine Learning](https://bhargavjoshi55.medium.com/build-your-linear-regression-model-in-machine-learning-cf5fc28d515d)
+ - [Waterfall Model in Software Engineering](https://bhargavjoshi55.medium.com/waterfall-model-in-software-engineering-21a88a5a5c56)
+ - [Sentiment Analysis using NLP Libraries](https://bhargavjoshi55.medium.com/sentiment-analysis-using-nlp-libraries-8339e725d283)
+ - [Make an Automatic Certificate Generator in Python — 10 Lines Code | Automation](https://bhargavjoshi55.medium.com/make-an-automatic-certificate-generator-in-python-10-lines-code-automation-how-to-90f383ffb326)
+ 
+➡️ [More blog posts](https://bhargavjoshi55.medium.com/)
+ 
+
 <h4> Milestones & Badges </h4>
 <img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" width="130px" align="left">
 <img src="https://s3.amazonaws.com/thinkific/file_uploads/231374/images/aae/550/c27/CNSS_Badge.png" width="130px">
