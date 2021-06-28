@@ -7,9 +7,11 @@
 <h3 align="right" ><a href="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Resume%20-%20Bhargav%20Joshi.pdf">Download my Resume</a></h3>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br>
- College - Vidyalankar Institute of Technology, Mumbai <br>
- Stream - Bachelor of Engineering in Computer Engineering<br>
+<h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br><br>
+ College - Vidyalankar Institute of Technology, Mumbai <br><br>
+ Stream - Bachelor of Engineering in Computer Engineering<br><br>
+ Area of Interest - Software Development · Web Development · Machine Learning · Python/C++ · System/Network<br><br>
+ Open to work as - Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
 </h4>
 <hr/>
 <h3 align="center"><i><b> < Connect me on Social Media > </b></i></h3>
