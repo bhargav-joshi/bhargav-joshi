@@ -7,8 +7,9 @@
 <h3 align="right" ><a href="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Resume%20-%20Bhargav%20Joshi.pdf">Download my Resume</a></h3>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left"> I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
-I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
+<h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br>
+ College - Vidyalankar Institute of Technology, Mumbai <br>
+ Stream - Bachelor of Engineering in Computer Engineering<br>
 </h4>
 <hr/>
 <h3 align="center"><i><b> < Connect me on Social Media > </b></i></h3>
