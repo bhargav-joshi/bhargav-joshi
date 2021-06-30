@@ -10,7 +10,7 @@
 <h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br><br>
  College - Vidyalankar Institute of Technology, Mumbai <br><br>
  Stream - Bachelor of Engineering in Computer Engineering<br><br>
- Area of Interest - Software Development · Web Development · Machine Learning · Python/C++ · System/Network<br><br>
+ Area of Interest - Software Development · Web Development · Machine Learning · Python/C++ · System/Network<br><br><br>
  Open to work as - Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
 </h4>
 <hr/>
