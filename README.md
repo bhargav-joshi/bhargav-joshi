@@ -42,6 +42,7 @@
  <code><img height="50" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/css3.png"></a>&nbsp;&nbsp;</code>
  <code><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/bootstrap.png"></a>&nbsp;&nbsp;</code>
  <code><img height="60" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/php.png"></a>&nbsp;&nbsp;</code>
+ <code><img height="50" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/reactjs.png"></a>&nbsp;&nbsp;</code>
  <code><img height="50" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/nodejs-logo.png"></a>&nbsp;&nbsp;</code>
  <code><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/ExpressJS.png"></a>&nbsp;&nbsp;</code>
  <code><img height="50" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/mongoose.jpg"></a>&nbsp;&nbsp;</code>
