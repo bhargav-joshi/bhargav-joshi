@@ -4,7 +4,8 @@
 <br>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="right">
-<h3 align="right" ><a href="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Resume%20-%20Bhargav%20Joshi.pdf">Download my Resume</a></h3>
+
+<h4 align="right" ><a href="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Resume-Bhargav-Joshi.pdf">Resume [2 Columns]</a> &nbsp&nbsp OR &nbsp&nbsp<a href="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Resume%20-%20Bhargav%20Joshi.pdf">Resume [Single Page]</a></h4>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
 <h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br><br>
