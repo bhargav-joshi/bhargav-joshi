@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi" alt="https://github.com/bhargav-joshi"> </p>
 
-<h1 align="center">Hey <img src="https://github.com/bhargav-joshi/bhargav-joshi.github.io/blob/master/assets/img/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️ <br></h1>
+<h1 align="center">Hello !! 👋 Welcome to my Profile  👨‍💻❤️ <br></h1>
 <br>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="right">
