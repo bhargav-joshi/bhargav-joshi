@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi" alt="https://github.com/bhargav-joshi"> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi&style=flat-square&color=4c4cdc" alt="https://github.com/bhargav-joshi" width="160"> </p>
 
 <h1 align="center">Hello !! 👋 Welcome to my Profile  👨‍💻❤️ <br></h1>
 <br>
@@ -6,12 +6,11 @@
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="right">
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left">Hey !!, I am Final year student (2022 Graduate) <br><br>
- College - Vidyalankar Institute of Technology, Mumbai <br><br>
- Stream - Bachelor of Engineering in Computer Engineering<br><br>
- Area of Interest - Software Development · Web Development · Machine Learning · Python/C++ · System/Network<br><br><br>
- Open to work as - Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
-</h4>
+<h3 align="left">Hey !!, I am Final year student (2022 Graduate) <br></h3>
+<b>Area of Interest -</b> 
+ Web Development · Machine Learning · Python/C++ · System/Network · Software Development <br>
+ <hr>
+ <b>Open to work as -</b> Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
 <hr/>
 <h3 align="center"><i><b> < Connect me on Social Media > </b></i></h3>
 
@@ -22,7 +21,6 @@
 <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/medium.png"></a>&nbsp;&nbsp;
 <a href="http://www.youtube.com/channel/UCNNV6y1pF3sv8xfKjsz7fUw?sub_confirmation=1"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/youtube.png"></a>&nbsp;&nbsp; 
 <a href="https://www.instagram.com/capturing_eye/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/instagram.png"></a>&nbsp;&nbsp;
-<a href="http://bhargavjoshi.live/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/globe-grid.png"></a>&nbsp;&nbsp;
 <a href="https://helpwalaa.blogspot.com/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/blogger.png"></a>&nbsp;&nbsp;
 
 </p>  
@@ -82,10 +80,10 @@
 
 
 
- 
-
-
 ## Latest Blog Posts 💬 📋 ✒️ 
+ - [Five Phases of IT project Methodology](https://bhargavjoshi55.medium.com/five-phases-of-it-project-methodology-in-project-management-4df3d845a74f)
+ - [Levels in Natural Language Processing (NLP)](https://bhargavjoshi55.medium.com/levels-in-natural-language-processing-nlp-8e1ddc1cfd1a)
+ - [Bubble Sort in Data Structures](https://bhargavjoshi55.medium.com/bubble-sort-in-data-structures-7799f6ffc165)
  - [Build your Linear Regression Model in Machine Learning](https://bhargavjoshi55.medium.com/build-your-linear-regression-model-in-machine-learning-cf5fc28d515d)
  - [Waterfall Model in Software Engineering](https://bhargavjoshi55.medium.com/waterfall-model-in-software-engineering-21a88a5a5c56)
  - [Sentiment Analysis using NLP Libraries](https://bhargavjoshi55.medium.com/sentiment-analysis-using-nlp-libraries-8339e725d283)
@@ -95,7 +93,7 @@
  
 
 ## Milestones & Badges
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/badges.png" width="800px">
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/badges.png" width="680px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true" width=400>
 
