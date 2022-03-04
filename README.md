@@ -1,18 +1,22 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi&style=flat-square&color=4c4cdc" alt="https://github.com/bhargav-joshi" width="160"> </p>
 
-<h1 align="center">Hello !! 👋 Welcome to my Profile  👨‍💻❤️ <br></h1>
+<h2 align="center">Hey ! 👋 Welcome to my Profile 👨‍💻❤️ <br></h2>
 <br>
 
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="right">
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="left">
 
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/man5.gif" width="380px" align="right">
 <h3 align="left">Hey !!, I am Final year student (2022 Graduate) <br></h3>
-<b>Area of Interest -</b> 
+
+<b>► Area of Interest :</b> 
+
  Web Development · Machine Learning · Python/C++ · System/Network · Software Development <br>
  <hr>
- <b>Open to work as -</b> Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
-<hr/>
-<h3 align="center"><i><b> < Connect me on Social Media > </b></i></h3>
+ <b>► Open to work as :</b>
+ 
+ Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
+
+<h2 align="center"><i><b> < / Connect me on Social Media > </b></i></h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp;
@@ -25,7 +29,7 @@
 
 </p>  
 
-## About Me 👇
+## About Me & My Skills 👇
 
 ### Languages:
  <code><img height="60" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/lang/logo-c-1.png"></a>&nbsp;&nbsp;</code>
