@@ -20,13 +20,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Capturing_eye"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.quora.com/profile/Bhargav-Joshi-149"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/iconfinder_Quora_2613304.png"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/medium.png"></a>&nbsp;&nbsp;
-<a href="http://www.youtube.com/channel/UCNNV6y1pF3sv8xfKjsz7fUw?sub_confirmation=1"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/youtube.png"></a>&nbsp;&nbsp; 
-<a href="https://www.instagram.com/capturing_eye/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://helpwalaa.blogspot.com/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/blogger.png"></a>&nbsp;&nbsp;
-
 </p>  
 
 ## About Me & My Skills 👇
