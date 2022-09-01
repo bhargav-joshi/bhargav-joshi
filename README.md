@@ -1,26 +1,30 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi&style=flat-square&color=4c4cdc" alt="https://github.com/bhargav-joshi" width="160"> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi&style=flat-square&color=4c4cdc" alt="https://github.com/bhargav-joshi" width="160"> 
+</p>
 
-<h2 align="center">Hey ! 👋 Welcome to my Profile 👨‍💻❤️ <br></h2>
+<h2 align="center"> <b> Hello ! 👋 Welcome to my Profile 👨‍💻❤️ </b><br>
+<p align="right">
+ <a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp; <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/medium.png"></a>
+</p>
+
+</h2>
 <br>
 
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="left">
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="30px" align="left">
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/man5.gif" width="380px" align="right">
-<h3 align="left">Hey !!, I am Final year student (2022 Graduate) <br></h3>
 
 <b>► Area of Interest :</b> 
 
- Web Development · Machine Learning · Python/C++ · System/Network · Software Development <br>
+ &nbsp;&nbsp;&nbsp;&nbsp; Web Development · Machine Learning · Python/C++ · System/Network · Software Development <br>
  <hr>
+ <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="30px" align="left">
+
  <b>► Open to work as :</b>
  
- Software Engineer · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Community/Program Manager (Tech)
-
-<h2 align="center"><i><b> < / Connect me on Social Media > </b></i></h2>
+ &nbsp;&nbsp;&nbsp;&nbsp; Software Engineer · Product Manager · Project Manager · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Program Manager · Techincal Solutions Engineer
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/medium.png"></a>&nbsp;&nbsp;
+ <h2 align="center"><i><b> < / Connect me on Social Media ---------> </b></i><a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp; <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/medium.png"></a>&nbsp;&nbsp;</h2>
 </p>  
 
 ## About Me & My Skills 👇
@@ -88,11 +92,5 @@
  - [Make an Automatic Certificate Generator in Python — 10 Lines Code | Automation](https://bhargavjoshi55.medium.com/make-an-automatic-certificate-generator-in-python-10-lines-code-automation-how-to-90f383ffb326)
  
 ➡️ [More blog posts](https://bhargavjoshi55.medium.com/)
- 
-
-## Milestones & Badges
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/badges.png" width="680px">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhargav-joshi&show_icons=true" width=400>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
