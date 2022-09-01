@@ -23,10 +23,6 @@
  
  &nbsp;&nbsp;&nbsp;&nbsp; Software Engineer · Product Manager · Project Manager · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Program Manager · Techincal Solutions Engineer
 
-<p align="center">
- <h2 align="center"><i><b> < / Connect me on Social Media ---------> </b></i><a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp; <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/medium.png"></a>&nbsp;&nbsp;</h2>
-</p>  
-
 ## About Me & My Skills 👇
 
 ### Languages:
