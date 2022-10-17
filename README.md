@@ -2,26 +2,19 @@
 </p>
 
 <h2 align="center"> <b> Hello ! 👋 Welcome to my Profile 👨‍💻❤️ </b><br>
-<p align="right">
- <a href="https://www.linkedin.com/in/bhargavjoshi55/"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/linkedin.png"></a>&nbsp;&nbsp; <a href="https://medium.com/@bhargavjoshi55"><img height="40" src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/medium.png"></a>
-</p>
-
 </h2>
 <br>
-
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="30px" align="left">
-
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/man5.gif" width="380px" align="right">
 
 <b>► Area of Interest :</b> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; Web Development · Machine Learning · Python/C++ · System/Network · Software Development <br>
+ &nbsp;&nbsp;&nbsp;&nbsp; Full Stack MEAN/MERN Developer · Data Science & Machine Learning <br>
  <hr>
- <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="30px" align="left">
-
- <b>► Open to work as :</b>
- 
- &nbsp;&nbsp;&nbsp;&nbsp; Software Engineer · Product Manager · Project Manager · Associate · Software Developer · Analyst  · Web Developer · ML Engineer · Program Manager · Techincal Solutions Engineer
+ <b>► Preferred to work as :</b>
+ <br>
+ - Software Developer · Full Stack Web Developer <br>
+ - Product Manager · Software Engineer · Analyst <br>
+ - ML Engineer · Program Manager · Techincal Solutions Engineer
 
 ## About Me & My Skills 👇
 
