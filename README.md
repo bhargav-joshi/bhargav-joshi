@@ -8,13 +8,14 @@
 
 <b>► Area of Interest :</b> 
 
- &nbsp;&nbsp;&nbsp;&nbsp; Full Stack MEAN/MERN Developer · Data Science & Machine Learning <br>
+ &nbsp;&nbsp;&nbsp;&nbsp; Frontend / Backend / Full Stack MEAN & MERN Developer · <br>
  <hr>
  <b>► Preferred to work as :</b>
  <br>
- - Software Developer · Full Stack Web Developer <br>
- - Product Manager · Software Engineer · Analyst <br>
- - ML Engineer · Program Manager · Techincal Solutions Engineer
+ - Software Developer · Full Stack Web Developer · Software Engineer <br>
+ - Frontend Developer · Backend Developer · React Developer <br>
+ - Angular Developer · Javascript Developer · Python Developer <br>
+ 
 
 ## About Me & My Skills 👇
 
