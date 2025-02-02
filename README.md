@@ -1,10 +1,16 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhargav-joshi&style=flat-square&color=4c4cdc" alt="https://github.com/bhargav-joshi" width="160"> 
 </p>
 
-<h2 align="center"> <b> Hello ! 👋 Welcome to my Profile 👨‍💻❤️ </b><br>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ff5722; font-size: 3.5rem; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); margin-top: 40px;">
+  <b style="font-size: 4rem; letter-spacing: 2px;">Hello, World! 👋</b><br>
+  <span style="font-size: 2.5rem; color: #009688; font-weight: 600;">Welcome to My Digital Space 👨‍💻❤️ </span><br>
 </h2>
+
 <br>
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/man5.gif" width="380px" align="right">
+
+
+<!-- <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/man5.gif" width="380px" align="right"> -->
+<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/man6.gif" width="380px" align="right">
 
 <b>► Area of Interest :</b> 
 
