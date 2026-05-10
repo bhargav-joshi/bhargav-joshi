@@ -23,7 +23,7 @@ I am a **CKAD-Certified Senior SDE** with over 4 years of experience building mi
 - 🔭 **Expertise:** Architecting high-performance APIs, event-driven microservices, and GenAI integrations.
 - 🌱 **Currently pursuing:** Executive PG Diploma in AI/ML (MLOps & Generative AI) at **IIIT Bangalore** (2026).
 - 🏆 **Achievements:** Top 2% in GitHub Code Innovation Hackathon; highest marks in Software Engineering (Batch Topper).
-- 📫 **How to reach me:** [**bhargavjoshi55@gmail.com**](mailto:bhargavjoshi55@gmail.com) | [**Medium Blog**](https://bhargavjoshi55.medium.com/)
+- 📫 **How to reach me:** <a href="https://linkedin.com/in/bhargavjoshi55"> Linkedin Message </a> | [**Medium Blog**](https://bhargavjoshi55.medium.com/)
 
 ---
 
